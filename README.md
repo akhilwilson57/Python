@@ -33,3 +33,17 @@ Sum_of_Numbers.py iterates numbers from 1 to 50
 and calculates the sum of all numbers from 1 to 50
 <br>
 and displays the final sum as output
+<br>
+<br>
+(Assignment 3)
+<br>
+Factorial.py takes a number as input from user
+<br>
+and prints the factorial of the provided number.
+<br>
+<br>
+Module_Operations.py takes a number as input from user
+<br>
+and provides the square root, natural logarithm and
+<br>
+sine of the number in radians with the help of math module.
