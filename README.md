@@ -5,6 +5,7 @@ Author - Akhil Wilson
 
 <br>
 (Assignment 1)
+
 <br>
 
 
@@ -18,3 +19,15 @@ and prints a greeting message with their First Name and Last Name provided as in
 <br>
 <br>
 (Assignment 2)
+Even_Odd.py takes a number as input from user
+<br>
+and verifies the number and gives output whether the
+<br>
+number is even or odd.
+<br>
+<br>
+Sum_of_Numbers.py iterates numbers from 1 to 50
+<br>
+and calculates the sum of all numbers from 1 to 50
+<br>
+and displays the final sum as output
