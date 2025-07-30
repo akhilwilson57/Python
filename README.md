@@ -47,3 +47,19 @@ Module_Operations.py takes a number as input from user
 and provides the square root, natural logarithm and
 <br>
 sine of the number in radians with the help of math module.
+<br>
+<br>
+(Assignment 4)
+<br>
+file.py opens and reads a text file named sample.txt 
+<br>
+and prints its content line by line.
+<br>
+It also handles error if file does not exist.
+<br>
+<br>
+write_append_file takes user input and writes it
+<br>
+to a file named output.txt. It also appends additional data to the same file.
+<br>
+And finally reads and displays the final content of the file.
