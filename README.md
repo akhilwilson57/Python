@@ -63,3 +63,19 @@ write_append_file takes user input and writes it
 to a file named output.txt. It also appends additional data to the same file.
 <br>
 And finally reads and displays the final content of the file.
+<br>
+<br>
+(Assignment 5)
+<br>
+student_marks_dictionary.py file returns the marks of the student
+<br>
+whose name the user enters while asked for student's name as input
+<br>
+if user enters a name that is not present in the dictionary then the program prints "Student not found."
+<br>
+<br>
+list_slicing.py prints the original list.
+<br>
+extracts first 5 elements from the original list and prints them
+<br>
+then prints the reverse list of extracted 5 elements.
